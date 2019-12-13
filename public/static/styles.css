@@ -1,0 +1,12 @@
+body{
+  background:lightblue;
+
+}
+
+
+
+#myTable td{
+  min-width: 100px;
+  text-align:center;
+}
+
